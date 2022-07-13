@@ -1,10 +1,9 @@
-import logo from './logo.svg';
-import './App.css';
+import Hello from './Component/hello';
 
 function App() {
   return (
     <div className="App">
-      <div className='bg-red-100'>hi</div>
+      <Hello />
     </div>
   );
 }
