@@ -1,12 +1,10 @@
 .App {
-  test-align: center;
+  text-align: center;
 }
 
+.box{
+  width : 100px;
+  height : 100px;
+  background-color : red;
 
-.Nav {
-  display: flex;
-  background-color: black;
-  width: 100%;
-  color: white;
-  padding-left: 30px;
 }
